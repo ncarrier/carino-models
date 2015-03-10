@@ -10,10 +10,11 @@ not. In the latter case, the link to the part is given.
 
 ## Front Servo
 
-The front wheel servo must be insert in it's holder between the steps 18 and 19,
+The front wheel servo must be insert in it's holder between the steps 13 and 14,
 from the LDD building instructions. It's stem must be at the upper left. It's
-body must be blocked between the two *connector peg/cross axle* parts and it's
-wire can be blocked under the 1x4 technic brick added at step 19.
+body must be blocked between the two *connector peg/cross axle* parts added at
+step 18 and it's wire can be blocked under the 1x4 technic brick added at step
+14.
 
 ## Front wheels
 
