@@ -23,21 +23,26 @@ sets but which now seem to have disappeared. Here are the additional
 instructions for how to attach the front wheels:  
 
 1. In the lego plan for the chassis, built with LDD, the 4 yellow parts must be
-   replaced with 2 [*1x4 plates with toothed ends*][plate-1x4-toothed-ends]
-2. At each side, a [*steering arm*][steering-arm] must be inserted between the
+   replaced with 2 [*1x4 plates with toothed ends*][plate-1x4-toothed-ends].  
+   At each side, a [*steering arm*][steering-arm] must be inserted between the
    two previously attached plates.
-3. In each steering arm, insert a *connector peg/cross axle*, the cross being
-   directed downwards
-4. Link the two steering arms with a [*1x10 plate with toothed
+   ![front wheels - step 1](additional_inscructions-images/front-wheels-1.png)
+2. In each steering arm, insert a *connector peg/cross axle*, the cross being
+   directed downwards.
+   ![front wheels - step 2](additional_inscructions-images/front-wheels-2.png)
+3. Link the two steering arms with a [*1x10 plate with toothed
    ends*][plate-1x10-toothed-ends], the steering trapeze is now complete
-5. Insert, at both external sides of the steering arms, a *connector peg*, on
-   wich you can place the front wheels.
+   ![front wheels - step 3](additional_inscructions-images/front-wheels-3.png)
+4. Insert, at both external sides of the steering arms, a *connector peg*, on
+   wich you can place the front wheels.  
+   ![front wheels - step 4](additional_inscructions-images/front-wheels-4.png)
+   Note that the type of front wheels you use is not important, provided they
+   are of sufficient height.
+5. At last, use an unfolded paper clip to assemble the servo's arm with one of
+   the vertical *connector peg/cross axle*s of a *steering arm*.
+   ![front wheels - step 5](additional_inscructions-images/front-wheels-5.png)
+   ![front wheels - step 6](additional_inscructions-images/front-wheels-6.png)
 
-Note that the type of front wheels you use is not important, provided they are
-of sufficient height.
-
-At last, use an unfolded paper clip to assemble the servo's arm with one of the
-vertical *connector peg/cross axle*s of a *steering arm*.
 
 ## Motors
 
